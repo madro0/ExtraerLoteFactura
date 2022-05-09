@@ -1,0 +1,15 @@
+C:\Users\danni\Downloads\Nueva carpeta\ExtraerFacturas\ExtraerFacturas\bin\Debug\net6.0\ExtraerFacturas.exe
+C:\Users\danni\Downloads\Nueva carpeta\ExtraerFacturas\ExtraerFacturas\bin\Debug\net6.0\ExtraerFacturas.deps.json
+C:\Users\danni\Downloads\Nueva carpeta\ExtraerFacturas\ExtraerFacturas\bin\Debug\net6.0\ExtraerFacturas.runtimeconfig.json
+C:\Users\danni\Downloads\Nueva carpeta\ExtraerFacturas\ExtraerFacturas\bin\Debug\net6.0\ExtraerFacturas.dll
+C:\Users\danni\Downloads\Nueva carpeta\ExtraerFacturas\ExtraerFacturas\bin\Debug\net6.0\ExtraerFacturas.pdb
+C:\Users\danni\Downloads\Nueva carpeta\ExtraerFacturas\ExtraerFacturas\obj\Debug\net6.0\ExtraerFacturas.csproj.AssemblyReference.cache
+C:\Users\danni\Downloads\Nueva carpeta\ExtraerFacturas\ExtraerFacturas\obj\Debug\net6.0\ExtraerFacturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danni\Downloads\Nueva carpeta\ExtraerFacturas\ExtraerFacturas\obj\Debug\net6.0\ExtraerFacturas.AssemblyInfoInputs.cache
+C:\Users\danni\Downloads\Nueva carpeta\ExtraerFacturas\ExtraerFacturas\obj\Debug\net6.0\ExtraerFacturas.AssemblyInfo.cs
+C:\Users\danni\Downloads\Nueva carpeta\ExtraerFacturas\ExtraerFacturas\obj\Debug\net6.0\ExtraerFacturas.csproj.CoreCompileInputs.cache
+C:\Users\danni\Downloads\Nueva carpeta\ExtraerFacturas\ExtraerFacturas\obj\Debug\net6.0\ExtraerFacturas.dll
+C:\Users\danni\Downloads\Nueva carpeta\ExtraerFacturas\ExtraerFacturas\obj\Debug\net6.0\refint\ExtraerFacturas.dll
+C:\Users\danni\Downloads\Nueva carpeta\ExtraerFacturas\ExtraerFacturas\obj\Debug\net6.0\ExtraerFacturas.pdb
+C:\Users\danni\Downloads\Nueva carpeta\ExtraerFacturas\ExtraerFacturas\obj\Debug\net6.0\ExtraerFacturas.genruntimeconfig.cache
+C:\Users\danni\Downloads\Nueva carpeta\ExtraerFacturas\ExtraerFacturas\obj\Debug\net6.0\ref\ExtraerFacturas.dll
